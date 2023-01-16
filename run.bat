@@ -1,0 +1,1 @@
+docker run --name arch --hostname henv -v ${pwd}:/home/hawierdev/programming -it archlinux:hawierdev
